@@ -1,2 +1,2 @@
-# DependencyInjection
-Dependency Injection
+# Dependency Injection
+Dependency Injection samples for clarification
