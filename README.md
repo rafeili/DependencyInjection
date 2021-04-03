@@ -1,10 +1,10 @@
 # Dependency Injection (DI)
 
-Definition:
+## Definition:
 A set of software design principles and patterns that enable us to develop loosely coupled code.
 
 Benefits of loose coupling:
 * Code easier to extend
 
-In this repo:
+## In this repo:
 Dependency Injection samples for clarification
