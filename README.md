@@ -7,6 +7,7 @@ Benefits of loose coupling:
 * Code easier to extend and functionality can be added without making changes to all of our objects
 * Code easier to test as pieces of functionality can be isolated and thus can be tested with short, easy-to-read unit tests
 * Code easier to maintain
+* Facilitates parallel development with merge conflicts in development environment becoming quite rare
 
 ## In this repo:
 Dependency Injection samples for clarification
